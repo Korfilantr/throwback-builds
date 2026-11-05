@@ -25,10 +25,19 @@
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/9-awards.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/10-results.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/6-home-stats.png",
-        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/2-picker.png",
-        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/7-library.png"
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/11-settings.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/2-picker.png"
       ],
       "versions": [
+        {
+          "version": "1.0.11",
+          "buildVersion": "11",
+          "date": "2026-11-05T23:05:24Z",
+          "localizedDescription": "Make quiz question and 'who got it right' readable on bright clips",
+          "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.11/Throwback.ipa",
+          "size": 1630813,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0.9",
           "buildVersion": "9",
@@ -88,11 +97,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.9",
-      "versionDate": "2026-11-05T22:58:05Z",
-      "versionDescription": "README: party features, incremental imports, storage saver",
-      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.9/Throwback.ipa",
-      "size": 1590902,
+      "version": "1.0.11",
+      "versionDate": "2026-11-05T23:05:24Z",
+      "versionDescription": "Make quiz question and 'who got it right' readable on bright clips",
+      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.11/Throwback.ipa",
+      "size": 1630813,
       "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
     }
   ],
