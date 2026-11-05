@@ -29,6 +29,15 @@
       ],
       "versions": [
         {
+          "version": "1.0.7",
+          "buildVersion": "7",
+          "date": "2026-11-05T22:43:18Z",
+          "localizedDescription": "Incremental imports without duplicates, storage saver, margin fix",
+          "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.7/Throwback.ipa",
+          "size": 1409677,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.6",
           "buildVersion": "6",
           "date": "2026-11-05T22:30:53Z",
@@ -60,11 +69,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.6",
-      "versionDate": "2026-11-05T22:30:53Z",
-      "versionDescription": "Fix video autoplay and session layout; photos can stay until swiped",
-      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.6/Throwback.ipa",
-      "size": 1297730,
+      "version": "1.0.7",
+      "versionDate": "2026-11-05T22:43:18Z",
+      "versionDescription": "Incremental imports without duplicates, storage saver, margin fix",
+      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.7/Throwback.ipa",
+      "size": 1409677,
       "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
     }
   ],
