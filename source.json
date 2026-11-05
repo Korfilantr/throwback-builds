@@ -22,12 +22,22 @@
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/3-home.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/4-session.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/5-guess.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/9-awards.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/10-results.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/6-home-stats.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/2-picker.png",
-        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/1-onboarding.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/7-library.png"
       ],
       "versions": [
+        {
+          "version": "1.0.8",
+          "buildVersion": "8",
+          "date": "2026-11-05T22:51:01Z",
+          "localizedDescription": "Party features: question types, players and results, answer timer, Chat Awards",
+          "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.8/Throwback.ipa",
+          "size": 1590901,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0.7",
           "buildVersion": "7",
@@ -69,11 +79,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.7",
-      "versionDate": "2026-11-05T22:43:18Z",
-      "versionDescription": "Incremental imports without duplicates, storage saver, margin fix",
-      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.7/Throwback.ipa",
-      "size": 1409677,
+      "version": "1.0.8",
+      "versionDate": "2026-11-05T22:51:01Z",
+      "versionDescription": "Party features: question types, players and results, answer timer, Chat Awards",
+      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.8/Throwback.ipa",
+      "size": 1590901,
       "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
     }
   ],
