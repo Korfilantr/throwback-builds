@@ -24,9 +24,19 @@
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/5-guess.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/6-home-stats.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/2-picker.png",
-        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/1-onboarding.png"
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/1-onboarding.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/7-library.png"
       ],
       "versions": [
+        {
+          "version": "1.0.6",
+          "buildVersion": "6",
+          "date": "2026-11-05T22:30:53Z",
+          "localizedDescription": "Fix video autoplay and session layout; photos can stay until swiped",
+          "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.6/Throwback.ipa",
+          "size": 1297730,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0.5",
           "buildVersion": "5",
@@ -50,11 +60,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.5",
-      "versionDate": "2026-11-05T21:59:18Z",
-      "versionDescription": "Fix build: import ThrowbackCore in LibraryView",
-      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.5/Throwback.ipa",
-      "size": 1292619,
+      "version": "1.0.6",
+      "versionDate": "2026-11-05T22:30:53Z",
+      "versionDescription": "Fix video autoplay and session layout; photos can stay until swiped",
+      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.6/Throwback.ipa",
+      "size": 1297730,
       "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
     }
   ],
