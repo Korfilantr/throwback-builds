@@ -1,0 +1,53 @@
+{
+  "name": "Throwback",
+  "identifier": "com.korfilantr.throwback.source",
+  "subtitle": "Random clips from your Snapchat group chats.",
+  "description": "Builds of Throwback for AltStore. Add this source to get updates in AltStore.",
+  "website": "https://github.com/Korfilantr/throwback-builds",
+  "tintColor": "#FF3D7F",
+  "nsfw": false,
+  "featuredApps": [
+    "com.korfilantr.throwback"
+  ],
+  "apps": [
+    {
+      "name": "Throwback",
+      "bundleIdentifier": "com.korfilantr.throwback",
+      "developerName": "Korfilantr",
+      "subtitle": "Random clips from your group chats.",
+      "localizedDescription": "Throwback plays a random photo or video from your Snapchat group chats with one tap, so everyone in the room can laugh at old clips together.\n\n• Import your Snapchat \"My Data\" export (Chat Media + JSON) and pick which chats to use\n• Shuffle like a deck of cards: every clip once before any repeats\n• Guess who sent it: the sender stays hidden until you tap\n• Hall of Fame: double-tap to favorite, then shuffle only the best\n• AirPlay to the TV, or share a clip back to the chat\n\nEverything stays on your phone. No servers, no accounts. Not affiliated with Snap Inc.",
+      "tintColor": "#FF3D7F",
+      "category": "entertainment",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/3-shuffle.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/4-guess.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/2-picker.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/1-onboarding.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/5-hall-of-fame.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0.3",
+          "buildVersion": "3",
+          "date": "2026-11-05T20:54:13Z",
+          "localizedDescription": "Publish each build to an AltStore source",
+          "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.3/Throwback.ipa",
+          "size": 1071094,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "version": "1.0.3",
+      "versionDate": "2026-11-05T20:54:13Z",
+      "versionDescription": "Publish each build to an AltStore source",
+      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.3/Throwback.ipa",
+      "size": 1071094,
+      "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
+    }
+  ],
+  "news": [],
+  "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
+}
