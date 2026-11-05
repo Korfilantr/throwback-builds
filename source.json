@@ -15,17 +15,27 @@
       "bundleIdentifier": "com.korfilantr.throwback",
       "developerName": "Korfilantr",
       "subtitle": "Random clips from your group chats.",
-      "localizedDescription": "Throwback plays a random photo or video from your Snapchat group chats with one tap, so everyone in the room can laugh at old clips together.\n\n• Import your Snapchat \"My Data\" export (Chat Media + JSON) and pick which chats to use\n• Shuffle like a deck of cards: every clip once before any repeats\n• Guess who sent it: the sender stays hidden until you tap\n• Hall of Fame: double-tap to favorite, then shuffle only the best\n• AirPlay to the TV, or share a clip back to the chat\n\nEverything stays on your phone. No servers, no accounts. Not affiliated with Snap Inc.",
+      "localizedDescription": "Throwback plays a random photo or video from your Snapchat group chats with one tap, so everyone in the room can laugh at old clips together.\n\n• Import your Snapchat \"My Data\" export (Chat Media + JSON) and pick which chats to use\n• Modes: Everything, Hall of Fame, On this day, Time machine (one year)\n• Shuffle like a deck of cards: every clip once before any repeats\n• Guess who sent it: multiple choice with a running score\n• Auto-play for parties, AirPlay to the TV, share a clip back to the chat\n• Hide clips you never want to see again; stats on who sends the most\n\nEverything stays on your phone. No servers, no accounts. Not affiliated with Snap Inc.",
       "tintColor": "#FF3D7F",
       "category": "entertainment",
       "screenshots": [
-        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/3-shuffle.png",
-        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/4-guess.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/3-home.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/4-session.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/5-guess.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/6-home-stats.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/2-picker.png",
-        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/1-onboarding.png",
-        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/5-hall-of-fame.png"
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/1-onboarding.png"
       ],
       "versions": [
+        {
+          "version": "1.0.5",
+          "buildVersion": "5",
+          "date": "2026-11-05T21:59:18Z",
+          "localizedDescription": "Fix build: import ThrowbackCore in LibraryView",
+          "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.5/Throwback.ipa",
+          "size": 1292619,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0.3",
           "buildVersion": "3",
@@ -40,11 +50,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.3",
-      "versionDate": "2026-11-05T20:54:13Z",
-      "versionDescription": "Publish each build to an AltStore source",
-      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.3/Throwback.ipa",
-      "size": 1071094,
+      "version": "1.0.5",
+      "versionDate": "2026-11-05T21:59:18Z",
+      "versionDescription": "Fix build: import ThrowbackCore in LibraryView",
+      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.5/Throwback.ipa",
+      "size": 1292619,
       "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
     }
   ],
