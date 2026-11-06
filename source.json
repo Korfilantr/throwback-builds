@@ -20,6 +20,7 @@
       "category": "entertainment",
       "screenshots": [
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/3-home.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/3b-chat-dropdown.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/4-session.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/5-guess.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/9-awards.png",
@@ -29,6 +30,15 @@
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/2-picker.png"
       ],
       "versions": [
+        {
+          "version": "1.0.14",
+          "buildVersion": "14",
+          "date": "2026-11-06T09:49:28Z",
+          "localizedDescription": "Settings: license line on its own row (readable by VoiceOver and the UI test)",
+          "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.14/Throwback.ipa",
+          "size": 5631222,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0.11",
           "buildVersion": "11",
@@ -97,11 +107,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.11",
-      "versionDate": "2026-11-05T23:05:24Z",
-      "versionDescription": "Make quiz question and 'who got it right' readable on bright clips",
-      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.11/Throwback.ipa",
-      "size": 1630813,
+      "version": "1.0.14",
+      "versionDate": "2026-11-06T09:49:28Z",
+      "versionDescription": "Settings: license line on its own row (readable by VoiceOver and the UI test)",
+      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.14/Throwback.ipa",
+      "size": 5631222,
       "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
     }
   ],
