@@ -15,14 +15,18 @@
       "bundleIdentifier": "com.korfilantr.throwback",
       "developerName": "Korfilantr",
       "subtitle": "Random clips from your group chats.",
-      "localizedDescription": "Throwback plays a random photo or video from your Snapchat group chats with one tap, so everyone in the room can laugh at old clips together.\n\n• Import your Snapchat \"My Data\" export (Chat Media + JSON) and pick which chats to use\n• Modes: Everything, Hall of Fame, On this day, Time machine (one year)\n• Shuffle like a deck of cards: every clip once before any repeats\n• Guess who sent it: multiple choice with a running score\n• Auto-play for parties, AirPlay to the TV, share a clip back to the chat\n• Hide clips you never want to see again; stats on who sends the most\n\nEverything stays on your phone. No servers, no accounts. Not affiliated with Snap Inc.",
+      "localizedDescription": "Throwback plays a random photo or video from your Snapchat group chats with one tap, so everyone in the room can laugh at old clips together.\n\n• Import your Snapchat \"My Data\" export (Chat Media + JSON) and pick which chats to use\n• Modes: Everything, Hall of Fame, On this day, Time machine (one year)\n• Shuffle like a deck of cards: every clip once before any repeats\n• Guess who sent it: multiple choice with a running score\n• Auto-play for parties, AirPlay to the TV, share a clip back to the chat\n• Library: every chat's saved snaps by month, instantly; filter by who sent it, photo or video; see the exact date and time\n• Hide clips you never want to see again; stats on who sends the most\n\nEverything stays on your phone. No servers, no accounts. Not affiliated with Snap Inc.",
       "tintColor": "#FF3D7F",
       "category": "entertainment",
       "screenshots": [
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/3-home.png",
-        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/3b-chat-dropdown.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/12-library.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/13-timeline.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/14-viewer.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/4-session.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/5-guess.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/3b-chat-dropdown.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/15-filters.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/9-awards.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/10-results.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/6-home-stats.png",
@@ -30,6 +34,15 @@
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/2-picker.png"
       ],
       "versions": [
+        {
+          "version": "1.0.18",
+          "buildVersion": "18",
+          "date": "2026-11-06T10:57:41Z",
+          "localizedDescription": "Viewer: one gesture pages and dismisses; timeline opens below the bar",
+          "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.18/Throwback.ipa",
+          "size": 5848110,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0.14",
           "buildVersion": "14",
@@ -107,11 +120,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.14",
-      "versionDate": "2026-11-06T09:49:28Z",
-      "versionDescription": "Settings: license line on its own row (readable by VoiceOver and the UI test)",
-      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.14/Throwback.ipa",
-      "size": 5631222,
+      "version": "1.0.18",
+      "versionDate": "2026-11-06T10:57:41Z",
+      "versionDescription": "Viewer: one gesture pages and dismisses; timeline opens below the bar",
+      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.18/Throwback.ipa",
+      "size": 5848110,
       "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
     }
   ],
