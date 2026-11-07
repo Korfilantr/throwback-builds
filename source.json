@@ -20,10 +20,11 @@
       "category": "entertainment",
       "screenshots": [
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/3-home.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/4-session.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/4b-clean.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/12-library.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/13-timeline.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/14-viewer.png",
-        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/4-session.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/5-guess.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/3b-chat-dropdown.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/15-filters.png",
@@ -34,6 +35,15 @@
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/2-picker.png"
       ],
       "versions": [
+        {
+          "version": "1.0.20",
+          "buildVersion": "20",
+          "date": "2026-11-07T02:56:48Z",
+          "localizedDescription": "UI test: check the pause badge is gone, not that it appeared; no false repeat on undo",
+          "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.20/Throwback.ipa",
+          "size": 5991410,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0.18",
           "buildVersion": "18",
@@ -120,11 +130,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.18",
-      "versionDate": "2026-11-06T10:57:41Z",
-      "versionDescription": "Viewer: one gesture pages and dismisses; timeline opens below the bar",
-      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.18/Throwback.ipa",
-      "size": 5848110,
+      "version": "1.0.20",
+      "versionDate": "2026-11-07T02:56:48Z",
+      "versionDescription": "UI test: check the pause badge is gone, not that it appeared; no false repeat on undo",
+      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.20/Throwback.ipa",
+      "size": 5991410,
       "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
     }
   ],
