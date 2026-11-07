@@ -36,6 +36,15 @@
       ],
       "versions": [
         {
+          "version": "1.0.23",
+          "buildVersion": "23",
+          "date": "2026-11-07T14:25:03Z",
+          "localizedDescription": "Scale tests: plain statements the Mac compiler can type-check",
+          "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.23/Throwback.ipa",
+          "size": 6025811,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.21",
           "buildVersion": "21",
           "date": "2026-11-07T03:08:33Z",
@@ -139,11 +148,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.21",
-      "versionDate": "2026-11-07T03:08:33Z",
-      "versionDescription": "Hide the status bar with the controls; clearer empty Problems view",
-      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.21/Throwback.ipa",
-      "size": 5992316,
+      "version": "1.0.23",
+      "versionDate": "2026-11-07T14:25:03Z",
+      "versionDescription": "Scale tests: plain statements the Mac compiler can type-check",
+      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.23/Throwback.ipa",
+      "size": 6025811,
       "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
     }
   ],
