@@ -26,6 +26,10 @@ Snapchat only exports chat photos and videos that someone **saved** in the chat.
 
 Keep Throwback open while it imports. If you leave the app, the import pauses and keeps what it has done. Come back and tap **Continue**. Importing the same export again only adds what's missing; nothing is duplicated.
 
+## Your data tab
+
+Turn it on in Settings → Your data. Then pick your export in the tab. Only the location and profile files are read, so you can pick the same zips you imported clips from. For it to have something to show, request the export with **User Information** and **Ranking And Location** included and **Export JSON Files** on. Snapchat's location history only has points from when it recorded your location (mostly while the app was open), so a day can have gaps.
+
 ## Reporting a problem
 
 In Throwback: Settings → Developer → **Report a problem**. Say roughly when it happened and what you did, then share the file it makes. The log has no names, chat titles or chat content.

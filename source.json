@@ -25,6 +25,8 @@
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/12-library.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/13-timeline.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/14-viewer.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/17-your-data.png",
+        "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/18-day.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/5-guess.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/3b-chat-dropdown.png",
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/15-filters.png",
@@ -35,6 +37,15 @@
         "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/screenshots/2-picker.png"
       ],
       "versions": [
+        {
+          "version": "1.0.24",
+          "buildVersion": "24",
+          "date": "2026-11-08T15:09:35Z",
+          "localizedDescription": "Your data tab: Snapchat's location history and profile, made readable",
+          "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.24/Throwback.ipa",
+          "size": 6330787,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.0.23",
           "buildVersion": "23",
@@ -148,11 +159,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.23",
-      "versionDate": "2026-11-07T14:25:03Z",
-      "versionDescription": "Scale tests: plain statements the Mac compiler can type-check",
-      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.23/Throwback.ipa",
-      "size": 6025811,
+      "version": "1.0.24",
+      "versionDate": "2026-11-08T15:09:35Z",
+      "versionDescription": "Your data tab: Snapchat's location history and profile, made readable",
+      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.24/Throwback.ipa",
+      "size": 6330787,
       "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
     }
   ],
