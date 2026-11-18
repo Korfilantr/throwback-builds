@@ -38,6 +38,15 @@
       ],
       "versions": [
         {
+          "version": "1.0.29",
+          "buildVersion": "29",
+          "date": "2026-11-18T06:59:06Z",
+          "localizedDescription": "Hidden screen: Show buttons keep their identifier; UI test finds them by title too",
+          "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.29/Throwback.ipa",
+          "size": 6487739,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.24",
           "buildVersion": "24",
           "date": "2026-11-08T15:09:35Z",
@@ -157,13 +166,15 @@
       ],
       "appPermissions": {
         "entitlements": [],
-        "privacy": {}
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "Throwback saves a clip to your Photos only when you choose Save in the share sheet."
+        }
       },
-      "version": "1.0.24",
-      "versionDate": "2026-11-08T15:09:35Z",
-      "versionDescription": "Your data tab: Snapchat's location history and profile, made readable",
-      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.24/Throwback.ipa",
-      "size": 6330787,
+      "version": "1.0.29",
+      "versionDate": "2026-11-18T06:59:06Z",
+      "versionDescription": "Hidden screen: Show buttons keep their identifier; UI test finds them by title too",
+      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.29/Throwback.ipa",
+      "size": 6487739,
       "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
     }
   ],
