@@ -38,6 +38,15 @@
       ],
       "versions": [
         {
+          "version": "1.0.30",
+          "buildVersion": "30",
+          "date": "2026-11-20T06:30:06Z",
+          "localizedDescription": "Recordings by picture continuity; no more lost parts; broken export parts; open a clip in the Library",
+          "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.30/Throwback.ipa",
+          "size": 6625711,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.29",
           "buildVersion": "29",
           "date": "2026-11-18T06:59:06Z",
@@ -170,11 +179,11 @@
           "NSPhotoLibraryAddUsageDescription": "Throwback saves a clip to your Photos only when you choose Save in the share sheet."
         }
       },
-      "version": "1.0.29",
-      "versionDate": "2026-11-18T06:59:06Z",
-      "versionDescription": "Hidden screen: Show buttons keep their identifier; UI test finds them by title too",
-      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.29/Throwback.ipa",
-      "size": 6487739,
+      "version": "1.0.30",
+      "versionDate": "2026-11-20T06:30:06Z",
+      "versionDescription": "Recordings by picture continuity; no more lost parts; broken export parts; open a clip in the Library",
+      "downloadURL": "https://github.com/Korfilantr/throwback-builds/releases/download/v1.0.30/Throwback.ipa",
+      "size": 6625711,
       "iconURL": "https://raw.githubusercontent.com/Korfilantr/throwback-builds/main/icon.png"
     }
   ],
